@@ -1,0 +1,8 @@
+
+Dieses Framework ist unter der CC Lizenz. Im theme.html und style.css dürfen die Hinweise auf Bleekk.com NICHT 
+entfernt werden! Bitte respektiert das.
+http://creativecommons.org/licenses/by/3.0/de/
+
+
+This framework ist under CC licence. Do NOT remove the credits to bleekk.com in the theme.html and style.css!
+http://creativecommons.org/licenses/by/3.0/
